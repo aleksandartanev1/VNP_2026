@@ -1,0 +1,401 @@
+booking_id,booked_on,country,booking_type,channel,room_class,meal_plan,payment,guests,room_area,nightly_rate,nights,lead_time_days,deposit,extras_spend,rating
+52001,2025-10-03,Bulgaria,individual,online agency,standard,full board,pay at hotel,3,21.4,56,5,28,unknown,27,8.7
+52002,2025-10-05,Greece,individual,travel agency,economy,breakfast,deposit,1,16.2,42,2,12,30,0,9.0
+52003,2025-10-07,Serbia,individual,travel agency,deluxe,half board,deposit,4,34.5,80,2,71,100,22,9.0
+52004,2025-10-09,Serbia,individual,online agency,deluxe,half board,prepaid,4,32.7,unknown,6,3,940,0,8.1
+52005,2025-10-09,Italy,individual,direct,standard,breakfast,prepaid,2,21.6,52,3,16,280,74,7.5
+52006,2025-10-10,Turkey,individual,travel agency,standard,half board,prepaid,3,21.7,unknown,4,40,480,11,8.8
+52007,2025-10-11,Macedonia,individual,direct,superior,unknown,prepaid,2,25.6,62,4,11,320,11,8.2
+52008,2025-10-11,Bulgaria,individual,online agency,deluxe,room only,deposit,4,34.0,73,6,4,150,60,8.5
+52009,2025-10-12,Greece,individual,direct,superior,half board,prepaid,2,26.8,61,4,35,480,75,8.3
+52010,2025-10-12,Croatia,individual,direct,standard,unknown,deposit,1,20.8,53,5,22,90,42,6.2
+52011,2025-10-13,Serbia,individual,travel agency,economy,breakfast,deposit,1,14.3,40,4,20,60,0,6.4
+52012,2025-10-14,Slovenia,individual,online agency,superior,breakfast,prepaid,3,26.5,64,unknown,14,640,28,6.3
+52013,2025-10-15,Macedonia,individual,direct,deluxe,room only,deposit,4,34.3,76,2,10,50,4,9.3
+52014,2025-10-16,Kosovo,individual,travel agency,superior,half board,deposit,3,27.5,unknown,1,9,40,0,8.9
+52015,2025-10-16,Serbia,individual,travel agency,superior,breakfast,prepaid,3,28.2,65,6,106,600,61,7.4
+52016,2025-10-17,Greece,individual,direct,economy,half board,deposit,2,15.0,42,7,8,220,151,8.8
+52017,2025-10-18,Serbia,individual,travel agency,standard,half board,prepaid,1,22.0,57,1,94,80,0,7.2
+52018,2025-10-18,Croatia,individual,travel agency,economy,breakfast,pay at hotel,1,15.5,43,3,40,unknown,19,6.5
+52019,2025-10-18,Macedonia,individual,travel agency,standard,room only,prepaid,2,20.8,50,7,130,350,0,8.3
+52020,2025-10-23,Serbia,group,travel agency,standard,room only,prepaid,15,21.5,45,4,39,1470,29,7.6
+52021,2025-10-23,Macedonia,individual,online agency,standard,room only,prepaid,1,22.3,57,1,23,60,6,8.0
+52022,2025-10-24,United Kingdom,individual,direct,economy,full board,prepaid,1,14.2,37,unknown,17,480,15,8.1
+52023,2025-10-24,Germany,individual,travel agency,deluxe,breakfast,deposit,3,33.6,unknown,1,22,30,0,7.6
+52024,2025-10-25,Serbia,individual,direct,superior,breakfast,prepaid,3,27.2,60,1,60,100,15,8.0
+52025,2025-10-25,Croatia,individual,direct,standard,breakfast,prepaid,2,21.7,56,6,10,450,18,7.4
+52026,2025-10-25,Serbia,individual,online agency,standard,half board,deposit,1,20.2,52,2,11,50,12,8.5
+52027,2025-10-26,Serbia,individual,travel agency,standard,breakfast,deposit,1,21.1,48,3,13,50,0,7.2
+52028,2025-10-26,Poland,individual,online agency,deluxe,room only,prepaid,2,33.5,80,5,33,450,51,8.7
+52029,2025-10-27,Turkey,individual,travel agency,standard,full board,prepaid,1,20.3,unknown,1,8,90,4,7.4
+52030,2025-10-28,Macedonia,individual,online agency,standard,breakfast,prepaid,2,21.9,52,1,150,70,0,7.0
+52031,2025-10-29,Macedonia,individual,direct,standard,breakfast,prepaid,1,21.4,54,3,47,220,37,8.6
+52032,2025-10-31,Slovenia,individual,online agency,deluxe,breakfast,prepaid,2,32.7,80,4,13,460,80,8.8
+52033,2025-10-31,Greece,individual,direct,standard,breakfast,prepaid,2,21.0,54,3,24,220,10,6.8
+52034,2025-11-02,United Kingdom,individual,travel agency,suite,breakfast,deposit,4,40.8,91,7,15,280,57,8.9
+52035,2025-11-04,Serbia,individual,travel agency,standard,full board,deposit,1,19.8,49,3,25,80,19,7.2
+52036,2025-11-05,Serbia,individual,travel agency,superior,room only,deposit,2,28.0,64,unknown,19,90,31,7.0
+52037,2025-11-07,Macedonia,individual,travel agency,standard,breakfast,prepaid,3,21.6,50,unknown,16,580,64,8.4
+52038,2025-11-07,Serbia,individual,direct,deluxe,half board,prepaid,3,34.6,82,6,10,900,47,9.2
+52039,2025-11-07,Macedonia,individual,direct,standard,half board,prepaid,1,21.0,50,4,32,300,20,8.3
+52040,2025-11-08,Croatia,individual,online agency,superior,breakfast,prepaid,3,27.5,63,5,14,460,26,7.2
+52041,2025-11-08,Turkey,individual,online agency,superior,breakfast,prepaid,2,26.5,62,6,40,540,75,9.1
+52042,2025-11-09,Macedonia,individual,online agency,superior,room only,prepaid,3,25.1,55,2,7,130,24,8.0
+52043,2025-11-10,Romania,individual,online agency,standard,room only,pay at hotel,3,20.8,53,6,39,unknown,135,8.6
+52044,2025-11-11,Albania,individual,online agency,standard,breakfast,deposit,3,22.2,55,5,49,130,43,8.2
+52045,2025-11-14,Switzerland,individual,direct,superior,breakfast,prepaid,3,26.3,60,4,14,340,0,8.9
+52046,2025-11-15,Serbia,individual,travel agency,superior,half board,prepaid,3,27.4,68,2,30,260,5,9.0
+52047,2025-11-15,Czechia,individual,travel agency,standard,half board,pay at hotel,2,20.1,52,4,123,unknown,9,8.5
+52048,2025-11-15,Kosovo,individual,travel agency,suite,breakfast,prepaid,4,44.6,103,7,13,1000,55,9.2
+52049,2025-11-18,Austria,individual,direct,superior,full board,deposit,2,26.0,67,5,15,210,56,7.9
+52050,2025-11-18,Croatia,individual,travel agency,superior,half board,prepaid,2,26.8,unknown,5,9,560,17,8.2
+52051,2025-11-20,Slovenia,individual,direct,economy,room only,deposit,1,14.5,43,3,14,50,50,7.4
+52052,2025-11-20,Macedonia,individual,online agency,deluxe,room only,deposit,3,33.4,78,7,6,190,82,8.2
+52053,2025-11-21,Kosovo,individual,travel agency,standard,full board,prepaid,2,21.9,55,6,14,710,18,8.7
+52054,2025-11-23,Serbia,individual,online agency,standard,breakfast,deposit,3,20.1,50,6,103,140,16,7.0
+52055,2025-11-23,Serbia,individual,online agency,standard,breakfast,prepaid,1,19.9,53,2,34,120,0,8.4
+52056,2025-11-23,Germany,individual,online agency,economy,half board,prepaid,1,13.7,35,7,14,430,44,7.6
+52057,2025-11-25,Netherlands,individual,travel agency,economy,room only,prepaid,2,14.1,42,5,12,210,0,7.8
+52058,2025-11-25,Switzerland,individual,online agency,superior,half board,prepaid,3,28.6,75,5,2,720,44,8.1
+52059,2025-11-26,Bulgaria,individual,online agency,economy,breakfast,prepaid,2,14.3,34,1,15,50,0,7.7
+52060,2025-11-26,Bulgaria,individual,online agency,superior,room only,deposit,3,28.1,70,4,15,90,12,9.8
+52061,2025-11-29,Macedonia,individual,travel agency,standard,room only,pay at hotel,3,20.5,unknown,unknown,15,unknown,7,6.7
+52062,2025-11-29,Bulgaria,individual,travel agency,standard,breakfast,prepaid,2,20.4,unknown,1,76,80,6,6.2
+52063,2025-11-30,Germany,individual,travel agency,deluxe,half board,deposit,2,33.6,unknown,7,10,260,50,8.9
+52064,2025-12-04,Greece,individual,direct,standard,half board,deposit,2,20.7,54,3,8,90,22,6.8
+52065,2025-12-04,Kosovo,individual,direct,economy,room only,deposit,1,13.7,39,2,7,20,6,7.6
+52066,2025-12-06,Netherlands,individual,travel agency,economy,half board,deposit,2,14.6,unknown,7,44,180,68,7.5
+52067,2025-12-07,Kosovo,individual,online agency,standard,breakfast,deposit,3,21.0,53,unknown,22,120,21,7.3
+52068,2025-12-08,Serbia,individual,direct,superior,half board,prepaid,2,25.5,59,2,62,200,5,8.6
+52069,2025-12-08,Albania,individual,travel agency,suite,half board,deposit,3,43.7,unknown,4,28,190,11,9.2
+52070,2025-12-08,France,individual,direct,superior,breakfast,prepaid,200,27.4,65,6,67,510,26,9.8
+52071,2025-12-09,Germany,individual,direct,deluxe,breakfast,deposit,3,34.1,79,2,6,70,27,7.6
+52072,2025-12-10,Albania,individual,travel agency,standard,room only,pay at hotel,1,21.8,unknown,1,22,unknown,3,7.4
+52073,2025-12-10,Albania,individual,direct,deluxe,room only,prepaid,2,34.8,81,unknown,2,260,20,8.4
+52074,2025-12-13,Slovenia,individual,direct,superior,half board,deposit,3,26.2,62,5,49,180,0,9.0
+52075,2025-12-14,Macedonia,individual,travel agency,superior,room only,prepaid,2,27.6,68,2,3,160,28,8.5
+52076,2025-12-14,Turkey,individual,travel agency,standard,half board,deposit,1,19.7,48,5,13,100,0,6.7
+52077,2025-12-14,Bulgaria,individual,travel agency,standard,room only,deposit,3,21.5,54,1,7,20,11,8.7
+52078,2025-12-16,United Kingdom,individual,direct,standard,breakfast,prepaid,1,20.6,54,7,17,540,108,7.1
+52079,2025-12-16,Germany,individual,travel agency,economy,half board,prepaid,1,15.4,unknown,6,13,350,0,9.4
+52080,2025-12-17,Serbia,individual,direct,standard,room only,deposit,2,21.6,60,3,10,60,13,6.1
+52081,2025-12-18,Bulgaria,individual,direct,superior,breakfast,deposit,3,27.3,63,2,27,60,12,9.2
+52082,2025-12-18,Greece,individual,travel agency,standard,half board,pay at hotel,1,21.4,unknown,7,19,unknown,77,6.4
+52083,2025-12-19,Macedonia,individual,direct,economy,room only,deposit,1,16.0,38,5,11,60,10,8.1
+52084,2025-12-23,Greece,individual,travel agency,deluxe,room only,prepaid,3,33.0,unknown,6,22,490,31,9.5
+52085,2025-12-23,Kosovo,individual,online agency,standard,half board,prepaid,2,22.1,49,unknown,16,620,0,7.5
+52086,2025-12-24,Hungary,individual,travel agency,economy,breakfast,prepaid,1,14.3,33,7,61,290,0,7.8
+52087,2025-12-24,Greece,individual,direct,superior,room only,prepaid,3,26.9,unknown,6,17,540,142,7.3
+52088,2025-12-24,Poland,individual,travel agency,economy,breakfast,prepaid,2,14.9,32,1,7,50,0,8.5
+52089,2025-12-24,Poland,individual,online agency,superior,breakfast,deposit,2,27.5,66,5,33,140,44,7.5
+52090,2025-12-25,Macedonia,individual,direct,standard,breakfast,deposit,3,21.1,44,3,46,60,0,8.5
+52091,2025-12-28,Netherlands,individual,travel agency,superior,full board,prepaid,2,28.5,70,3,18,390,3,7.7
+52092,2025-12-29,Austria,individual,direct,economy,breakfast,deposit,2,15.6,40,4,94,70,7,7.2
+52093,2026-01-02,Bulgaria,individual,travel agency,standard,breakfast,deposit,1,21.1,unknown,unknown,70,80,15,8.0
+52094,2026-01-06,Macedonia,individual,direct,suite,breakfast,prepaid,4,41.4,98,2,16,290,30,8.9
+52095,2026-01-07,Greece,group,travel agency,standard,unknown,deposit,29,21.1,unknown,2,13,540,21,7.8
+52096,2026-01-08,Bulgaria,individual,travel agency,standard,room only,deposit,1,17.8,unknown,3,48,50,23,7.4
+52097,2026-01-09,Netherlands,individual,travel agency,standard,full board,prepaid,2,20.9,unknown,6,37,650,0,7.4
+52098,2026-01-09,Greece,individual,travel agency,suite,breakfast,deposit,3,43.7,101,5,20,190,0,8.9
+52099,2026-01-10,Macedonia,individual,direct,standard,full board,prepaid,3,21.2,55,2,9,320,35,9.1
+52100,2026-01-10,Kosovo,individual,direct,deluxe,room only,deposit,4,33.9,75,1,17,20,5,9.2
+52101,2026-01-11,France,individual,travel agency,suite,unknown,pay at hotel,3,40.4,unknown,7,28,unknown,0,7.9
+52102,2026-01-12,Netherlands,individual,travel agency,economy,room only,deposit,1,14.8,42,5,5,140,271,6.5
+52103,2026-01-12,Macedonia,individual,direct,standard,room only,prepaid,2,21.3,50,3,17,160,8,8.2
+52104,2026-01-12,Macedonia,individual,travel agency,standard,breakfast,pay at hotel,1,19.6,unknown,3,27,unknown,18,8.0
+52105,2026-01-12,Albania,individual,online agency,standard,breakfast,prepaid,2,21.4,62,4,14,360,52,7.8
+52106,2026-01-13,Croatia,individual,travel agency,standard,breakfast,deposit,1,20.6,46,6,40,100,0,8.2
+52107,2026-01-14,Greece,individual,travel agency,economy,half board,prepaid,2,14.4,34,5,25,370,0,6.7
+52108,2026-01-17,Bulgaria,individual,direct,superior,breakfast,prepaid,2,26.7,61,7,12,570,31,7.7
+52109,2026-01-20,Macedonia,individual,travel agency,standard,breakfast,prepaid,3,20.9,58,5,35,460,45,7.4
+52110,2026-01-22,Germany,individual,travel agency,standard,breakfast,deposit,3,20.6,unknown,5,29,140,78,8.7
+52111,2026-01-23,Bulgaria,individual,direct,standard,breakfast,deposit,3,21.5,48,6,68,130,0,9.9
+52112,2026-01-24,Poland,individual,travel agency,standard,half board,deposit,3,20.6,54,1,11,40,11,8.8
+52113,2026-01-25,Macedonia,individual,travel agency,deluxe,full board,deposit,3,33.6,unknown,7,19,370,62,8.4
+52114,2026-01-25,Macedonia,individual,travel agency,standard,unknown,deposit,2,20.2,unknown,1,5,30,12,7.2
+52115,2026-01-26,Macedonia,individual,travel agency,superior,room only,deposit,3,27.7,67,6,14,120,0,8.7
+52116,2026-01-27,Macedonia,individual,direct,deluxe,breakfast,deposit,4,33.2,78,6,55,210,38,9.3
+52117,2026-01-28,Turkey,individual,direct,superior,room only,deposit,3,26.4,61,4,44,80,27,8.4
+52118,2026-01-28,Poland,individual,online agency,standard,room only,deposit,3,21.9,53,6,19,140,136,8.2
+52119,2026-01-28,Serbia,individual,direct,standard,full board,deposit,2,21.5,54,1,32,40,3,unknown
+52120,2026-01-29,Albania,individual,travel agency,standard,full board,pay at hotel,1,21.5,56,6,19,unknown,47,7.5
+52121,2026-01-29,Austria,individual,travel agency,standard,breakfast,prepaid,1,20.7,unknown,3,11,210,26,8.4
+52122,2026-01-29,Turkey,individual,travel agency,suite,unknown,prepaid,4,42.7,94,6,21,810,53,8.3
+52123,2026-01-29,Poland,individual,direct,suite,breakfast,deposit,4,42.8,33,2,55,40,15,9.1
+52124,2026-01-30,Netherlands,individual,direct,standard,breakfast,deposit,3,19.8,53,5,12,110,0,7.9
+52125,2026-02-01,Poland,individual,online agency,standard,breakfast,prepaid,1,20.7,52,6,54,440,83,7.5
+52126,2026-02-01,Bulgaria,individual,direct,standard,breakfast,pay at hotel,1,21.1,54,2,35,unknown,13,7.9
+52127,2026-02-01,Slovenia,individual,direct,superior,half board,pay at hotel,3,25.6,63,1,200,unknown,14,8.6
+52128,2026-02-02,Poland,individual,travel agency,standard,half board,prepaid,3,21.0,unknown,1,26,120,3,7.6
+52129,2026-02-03,Poland,individual,direct,superior,half board,deposit,2,27.4,63,6,22,200,49,8.5
+52130,2026-02-04,Serbia,individual,online agency,standard,half board,deposit,3,19.9,44,5,31,200,131,7.0
+52131,2026-02-04,Bulgaria,individual,travel agency,suite,half board,prepaid,3,45.3,104,4,13,660,6,10.0
+52132,2026-02-05,Macedonia,individual,online agency,superior,breakfast,deposit,3,26.4,64,3,101,90,34,9.1
+52133,2026-02-05,Croatia,individual,travel agency,economy,half board,deposit,2,15.4,unknown,2,18,50,4,7.7
+52134,2026-02-06,Macedonia,individual,online agency,superior,half board,deposit,2,26.8,63,5,51,160,38,7.6
+52135,2026-02-07,Croatia,individual,online agency,deluxe,full board,prepaid,2,33.6,78,2,19,300,24,8.1
+52136,2026-02-07,Serbia,individual,online agency,deluxe,room only,prepaid,3,33.7,78,1,9,80,5,8.9
+52137,2026-02-08,Albania,individual,online agency,standard,breakfast,deposit,2,21.6,53,2,185,60,49,9.2
+52138,2026-02-08,Albania,individual,travel agency,standard,room only,deposit,3,20.5,50,1,9,20,21,7.6
+52139,2026-02-09,Bulgaria,individual,travel agency,superior,breakfast,prepaid,3,26.5,unknown,7,13,660,39,6.8
+52140,2026-02-13,Macedonia,individual,online agency,superior,half board,prepaid,3,26.5,59,1,7,120,6,9.8
+52141,2026-02-14,Netherlands,individual,travel agency,superior,half board,deposit,2,25.9,unknown,4,35,150,62,7.9
+52142,2026-02-14,Serbia,individual,online agency,economy,room only,prepaid,1,15.1,37,6,13,240,20,7.1
+52143,2026-02-14,Macedonia,individual,direct,standard,room only,prepaid,1,20.4,52,4,27,210,6,8.6
+52144,2026-02-15,Albania,individual,travel agency,standard,breakfast,deposit,2,22.2,47,7,28,140,34,7.0
+52145,2026-02-15,Germany,individual,travel agency,suite,breakfast,deposit,3,40.7,unknown,5,20,200,72,8.8
+52146,2026-02-16,Serbia,individual,direct,standard,half board,prepaid,2,20.8,48,unknown,3,390,37,9.1
+52147,2026-02-16,Germany,individual,travel agency,deluxe,half board,deposit,4,36.4,78,4,92,220,112,8.9
+52148,2026-02-16,Bulgaria,individual,online agency,standard,half board,prepaid,1,21.7,55,1,20,80,3,7.9
+52149,2026-02-16,Kosovo,individual,online agency,superior,unknown,deposit,3,27.2,67,2,5,50,0,8.0
+52150,2026-02-17,Kosovo,individual,online agency,superior,half board,prepaid,2,26.7,63,6,9,670,49,7.5
+52151,2026-02-17,Serbia,individual,direct,deluxe,half board,deposit,4,32.2,77,2,24,100,28,10.0
+52152,2026-02-17,Macedonia,individual,direct,superior,room only,prepaid,2,26.3,66,4,33,320,55,7.0
+52153,2026-02-19,Greece,individual,direct,standard,room only,prepaid,3,21.6,52,5,47,290,33,7.7
+52154,2026-02-19,Serbia,individual,online agency,standard,breakfast,pay at hotel,2,22.6,49,4,10,unknown,36,7.8
+52155,2026-02-20,Serbia,individual,travel agency,standard,half board,prepaid,2,20.8,47,5,12,460,28,7.2
+52156,2026-02-20,Kosovo,individual,travel agency,standard,unknown,deposit,1,20.9,50,6,11,130,0,8.2
+52157,2026-02-21,Germany,individual,direct,superior,unknown,deposit,3,28.5,68,7,12,280,38,7.8
+52158,2026-02-21,Macedonia,individual,direct,economy,room only,pay at hotel,1,14.7,34,4,15,unknown,25,8.6
+52159,2026-02-24,Macedonia,individual,travel agency,superior,room only,prepaid,3,25.9,60,7,35,440,17,8.1
+52160,2026-02-25,Turkey,individual,direct,standard,breakfast,prepaid,3,20.1,47,5,2,360,0,7.7
+52161,2026-02-25,Poland,individual,online agency,deluxe,full board,deposit,4,32.9,76,6,20,350,6,8.3
+52162,2026-02-25,Czechia,individual,online agency,standard,breakfast,prepaid,2,22.1,52,3,24,270,63,7.9
+52163,2026-02-25,Macedonia,individual,online agency,superior,half board,prepaid,3,27.3,65,5,26,620,0,8.0
+52164,2026-02-25,Germany,individual,direct,standard,half board,deposit,1,20.1,55,unknown,16,110,55,6.7
+52165,2026-02-26,Albania,individual,direct,standard,breakfast,deposit,2,22.1,54,3,15,80,36,7.9
+52166,2026-02-26,Slovenia,individual,direct,superior,breakfast,deposit,2,26.7,57,4,16,90,0,8.3
+52167,2026-03-01,Germany,individual,travel agency,standard,full board,pay at hotel,3,21.5,52,1,19,unknown,12,8.0
+52168,2026-03-01,Macedonia,individual,travel agency,superior,breakfast,prepaid,2,25.8,unknown,4,13,350,44,7.4
+52169,2026-03-01,Slovenia,individual,direct,superior,breakfast,pay at hotel,2,27.0,63,1,38,unknown,4,9.8
+52170,2026-03-02,Serbia,individual,direct,standard,breakfast,deposit,1,21.6,51,5,22,110,85,8.9
+52171,2026-03-03,Serbia,group,travel agency,standard,breakfast,pay at hotel,31,21.1,unknown,4,19,unknown,27,7.5
+52172,2026-03-03,Albania,individual,online agency,standard,room only,deposit,1,20.9,50,3,74,40,4,9.3
+52173,2026-03-05,Serbia,individual,travel agency,standard,room only,pay at hotel,2,22.7,59,5,21,unknown,75,7.9
+52174,2026-03-05,Netherlands,individual,travel agency,standard,breakfast,prepaid,1,20.7,unknown,7,6,490,62,9.5
+52175,2026-03-06,Serbia,individual,direct,superior,breakfast,prepaid,3,27.5,67,3,18,270,0,10.0
+52176,2026-03-06,Macedonia,individual,online agency,economy,breakfast,prepaid,1,14.1,35,1,8,50,6,8.2
+52177,2026-03-07,Greece,individual,travel agency,superior,half board,prepaid,3,27.5,unknown,6,11,760,33,9.1
+52178,2026-03-07,Greece,individual,online agency,suite,breakfast,prepaid,3,43.3,34,1,22,60,3,8.6
+52179,2026-03-08,Serbia,individual,online agency,superior,full board,prepaid,2,27.4,66,5,19,810,183,6.3
+52180,2026-03-08,Netherlands,individual,travel agency,economy,room only,prepaid,200,14.8,44,3,26,140,11,6.9
+52181,2026-03-09,Macedonia,individual,travel agency,standard,breakfast,prepaid,1,22.3,unknown,4,7,290,38,7.6
+52182,2026-03-10,Croatia,individual,direct,superior,room only,prepaid,2,25.7,60,1,44,70,7,7.9
+52183,2026-03-10,Macedonia,individual,direct,standard,room only,prepaid,2,20.4,unknown,3,30,160,5,6.5
+52184,2026-03-11,Croatia,individual,travel agency,standard,half board,deposit,3,20.2,45,unknown,17,220,0,8.6
+52185,2026-03-12,Netherlands,individual,travel agency,standard,breakfast,prepaid,3,20.0,unknown,6,16,520,71,10.0
+52186,2026-03-14,Serbia,individual,online agency,suite,breakfast,prepaid,4,42.1,97,3,36,390,0,8.0
+52187,2026-03-14,Albania,individual,online agency,economy,breakfast,prepaid,1,16.0,45,1,23,50,0,7.4
+52188,2026-03-14,Albania,individual,travel agency,superior,unknown,deposit,3,27.3,59,6,100,210,0,7.4
+52189,2026-03-14,Albania,individual,direct,standard,half board,deposit,1,20.1,54,4,20,90,15,6.5
+52190,2026-03-14,Greece,individual,travel agency,standard,breakfast,prepaid,1,21.9,unknown,6,92,430,54,8.2
+52191,2026-03-15,Kosovo,individual,online agency,deluxe,room only,deposit,4,34.0,79,6,19,140,0,9.1
+52192,2026-03-15,Austria,individual,travel agency,standard,breakfast,deposit,2,21.5,55,6,38,130,0,7.2
+52193,2026-03-15,Croatia,individual,direct,standard,half board,pay at hotel,2,22.4,52,5,36,unknown,0,7.7
+52194,2026-03-17,United Kingdom,individual,online agency,superior,breakfast,prepaid,2,28.3,72,3,21,280,11,7.5
+52195,2026-03-19,Greece,individual,online agency,superior,half board,prepaid,3,28.9,69,4,22,520,2,8.3
+52196,2026-03-24,Macedonia,individual,online agency,standard,room only,pay at hotel,1,21.7,51,4,20,unknown,0,6.2
+52197,2026-03-25,Serbia,individual,direct,superior,breakfast,deposit,2,26.2,63,2,43,50,9,7.6
+52198,2026-03-26,Greece,individual,online agency,superior,room only,prepaid,2,25.4,61,4,23,240,0,6.8
+52199,2026-03-26,Greece,individual,direct,superior,full board,pay at hotel,2,26.5,unknown,6,13,unknown,16,9.1
+52200,2026-03-28,Turkey,individual,travel agency,superior,half board,deposit,2,27.8,unknown,3,18,100,14,9.7
+52201,2026-03-30,Kosovo,individual,travel agency,superior,breakfast,prepaid,3,27.8,66,unknown,39,470,17,7.9
+52202,2026-03-30,Germany,individual,direct,economy,room only,prepaid,1,15.2,45,6,14,270,0,6.7
+52203,2026-04-01,Bulgaria,individual,travel agency,standard,full board,deposit,2,21.2,49,6,7,200,23,7.6
+52204,2026-04-02,Serbia,individual,direct,standard,breakfast,pay at hotel,1,19.6,45,4,9,unknown,11,9.6
+52205,2026-04-02,Macedonia,individual,travel agency,standard,breakfast,prepaid,3,21.4,unknown,4,24,300,10,7.9
+52206,2026-04-03,Serbia,individual,direct,suite,room only,deposit,3,43.9,102,4,17,130,9,9.5
+52207,2026-04-04,Croatia,individual,travel agency,standard,half board,pay at hotel,1,21.2,46,4,13,unknown,35,7.0
+52208,2026-04-06,Poland,individual,online agency,standard,breakfast,prepaid,1,20.8,55,7,43,470,33,7.0
+52209,2026-04-07,Bulgaria,individual,travel agency,economy,breakfast,prepaid,1,14.5,unknown,3,21,150,8,7.9
+52210,2026-04-07,Serbia,individual,travel agency,standard,half board,deposit,1,20.7,55,7,58,160,20,8.2
+52211,2026-04-08,Croatia,individual,direct,superior,breakfast,deposit,3,26.5,61,3,19,80,18,9.7
+52212,2026-04-08,Serbia,individual,direct,standard,full board,deposit,3,21.3,53,6,47,260,15,7.8
+52213,2026-04-10,Greece,individual,travel agency,standard,unknown,prepaid,1,20.7,50,2,5,120,17,7.5
+52214,2026-04-10,Germany,individual,direct,suite,breakfast,prepaid,3,43.2,101,1,6,130,2,9.9
+52215,2026-04-12,Albania,individual,direct,deluxe,breakfast,prepaid,3,36.1,81,unknown,14,100,0,unknown
+52216,2026-04-13,Turkey,individual,direct,deluxe,half board,deposit,4,34.0,81,6,48,320,81,9.0
+52217,2026-04-13,United Kingdom,individual,travel agency,superior,room only,prepaid,300,27.4,unknown,unknown,120,120,0,7.7
+52218,2026-04-13,Macedonia,individual,online agency,standard,breakfast,pay at hotel,2,20.5,52,6,15,unknown,26,8.4
+52219,2026-04-15,Serbia,individual,travel agency,standard,room only,pay at hotel,3,20.7,unknown,7,12,unknown,58,8.3
+52220,2026-04-15,Albania,individual,online agency,standard,breakfast,prepaid,2,20.5,54,4,39,290,13,9.3
+52221,2026-04-20,Albania,group,travel agency,standard,room only,pay at hotel,35,20.6,41,1,35,unknown,3,6.8
+52222,2026-04-21,Macedonia,individual,online agency,economy,unknown,prepaid,2,14.3,38,2,18,110,0,8.5
+52223,2026-04-21,Netherlands,individual,direct,standard,half board,prepaid,3,21.5,55,2,40,250,18,unknown
+52224,2026-04-21,Greece,individual,travel agency,standard,half board,prepaid,3,21.5,unknown,7,18,780,0,8.7
+52225,2026-04-21,Switzerland,individual,direct,superior,full board,prepaid,2,28.7,75,5,22,700,24,7.2
+52226,2026-04-22,Macedonia,individual,online agency,standard,breakfast,prepaid,1,22.3,57,5,16,320,0,7.9
+52227,2026-04-24,Norway,individual,travel agency,suite,unknown,deposit,3,39.7,unknown,unknown,9,40,5,8.4
+52228,2026-04-26,Germany,individual,online agency,suite,room only,prepaid,3,44.0,97,7,20,700,22,8.2
+52229,2026-04-29,Serbia,individual,travel agency,economy,room only,prepaid,1,14.8,43,2,72,90,0,5.9
+52230,2026-04-30,Macedonia,individual,travel agency,superior,room only,deposit,2,27.7,70,4,42,110,84,8.8
+52231,2026-05-01,Poland,individual,travel agency,standard,room only,pay at hotel,2,21.1,unknown,2,58,unknown,39,7.8
+52232,2026-05-01,Slovenia,individual,direct,deluxe,breakfast,deposit,4,35.1,75,6,85,210,58,unknown
+52233,2026-05-01,Austria,individual,online agency,superior,breakfast,deposit,3,28.1,68,4,9,110,9,8.9
+52234,2026-05-02,Netherlands,individual,online agency,economy,breakfast,prepaid,1,14.7,38,4,13,200,12,8.8
+52235,2026-05-02,United Kingdom,individual,travel agency,standard,half board,prepaid,1,21.3,unknown,1,25,90,7,8.7
+52236,2026-05-03,Croatia,individual,online agency,economy,room only,pay at hotel,2,16.0,39,2,25,unknown,7,8.6
+52237,2026-05-04,Spain,individual,travel agency,standard,breakfast,prepaid,2,19.9,unknown,6,68,450,50,8.8
+52238,2026-05-04,Serbia,individual,online agency,superior,breakfast,deposit,2,26.6,60,4,20,90,0,9.0
+52239,2026-05-06,France,individual,online agency,superior,room only,deposit,2,25.3,57,7,9,130,38,8.6
+52240,2026-05-07,Macedonia,individual,direct,standard,room only,deposit,3,21.5,51,4,4,60,7,7.9
+52241,2026-05-07,Greece,individual,online agency,deluxe,room only,deposit,2,32.6,unknown,7,18,160,0,8.3
+52242,2026-05-08,Macedonia,individual,travel agency,economy,room only,prepaid,1,15.1,unknown,4,27,170,15,7.7
+52243,2026-05-08,Italy,individual,direct,deluxe,breakfast,deposit,2,33.0,74,unknown,10,30,10,9.0
+52244,2026-05-10,Greece,individual,online agency,suite,half board,pay at hotel,4,41.5,unknown,2,71,unknown,3,unknown
+52245,2026-05-10,Serbia,individual,direct,economy,full board,prepaid,2,14.9,43,4,71,430,18,6.9
+52246,2026-05-11,Germany,individual,direct,economy,breakfast,deposit,2,15.3,42,1,60,20,2,8.0
+52247,2026-05-11,Sweden,individual,online agency,standard,breakfast,deposit,3,20.7,58,5,21,130,16,unknown
+52248,2026-05-11,Kosovo,individual,online agency,standard,breakfast,prepaid,3,20.9,50,7,32,580,63,9.0
+52249,2026-05-12,Sweden,individual,direct,superior,half board,prepaid,3,27.6,64,4,17,560,60,8.0
+52250,2026-05-13,Macedonia,individual,online agency,suite,room only,deposit,3,41.9,unknown,2,18,70,11,8.6
+52251,2026-05-13,Croatia,individual,direct,superior,half board,deposit,3,26.4,65,1,12,40,7,7.7
+52252,2026-05-14,Albania,individual,online agency,superior,unknown,pay at hotel,3,25.8,63,6,19,unknown,0,7.5
+52253,2026-05-14,Croatia,individual,online agency,suite,half board,deposit,4,42.8,36,2,18,80,24,9.4
+52254,2026-05-14,Macedonia,individual,travel agency,superior,breakfast,deposit,3,27.7,65,4,43,120,31,7.2
+52255,2026-05-15,Serbia,individual,travel agency,deluxe,full board,prepaid,4,34.8,76,3,8,590,5,9.4
+52256,2026-05-16,Poland,individual,travel agency,standard,room only,prepaid,3,21.6,50,7,27,420,74,6.8
+52257,2026-05-16,Austria,individual,direct,suite,room only,deposit,3,44.5,100,1,7,30,8,10.0
+52258,2026-05-18,Macedonia,individual,travel agency,superior,breakfast,deposit,2,27.4,63,7,149,190,74,9.7
+52259,2026-05-19,Serbia,individual,online agency,superior,breakfast,prepaid,3,27.5,62,3,51,280,27,7.6
+52260,2026-05-20,Austria,individual,travel agency,standard,full board,pay at hotel,3,19.7,unknown,2,54,unknown,0,9.4
+52261,2026-05-20,France,individual,online agency,superior,breakfast,deposit,3,25.4,60,3,90,80,8,10.0
+52262,2026-05-21,Croatia,individual,travel agency,suite,room only,deposit,3,42.4,unknown,7,32,220,34,10.0
+52263,2026-05-23,Kosovo,individual,direct,economy,breakfast,prepaid,1,15.9,41,unknown,10,270,26,8.6
+52264,2026-05-25,Italy,individual,travel agency,standard,full board,prepaid,2,22.9,unknown,1,64,120,7,8.0
+52265,2026-05-25,Macedonia,individual,online agency,standard,half board,deposit,2,21.4,57,6,5,180,31,8.5
+52266,2026-05-26,Kosovo,individual,travel agency,standard,half board,deposit,2,20.3,unknown,1,12,30,3,8.0
+52267,2026-05-26,Macedonia,individual,travel agency,standard,breakfast,deposit,1,20.5,54,4,7,80,21,7.1
+52268,2026-05-26,Bulgaria,group,travel agency,standard,unknown,deposit,26,19.2,unknown,4,21,860,19,9.2
+52269,2026-05-27,Serbia,individual,travel agency,suite,half board,prepaid,4,42.8,unknown,2,3,410,56,8.4
+52270,2026-05-27,Greece,individual,travel agency,standard,breakfast,prepaid,3,21.4,53,6,26,540,75,7.6
+52271,2026-05-27,Serbia,individual,travel agency,superior,room only,prepaid,3,27.6,unknown,5,11,330,13,9.0
+52272,2026-05-28,Bulgaria,individual,travel agency,deluxe,half board,prepaid,2,35.2,81,7,19,860,11,8.3
+52273,2026-05-31,Macedonia,individual,online agency,suite,breakfast,deposit,3,43.3,100,1,28,40,0,8.2
+52274,2026-06-01,Norway,group,travel agency,standard,room only,pay at hotel,15,21.6,unknown,7,4,unknown,0,6.9
+52275,2026-06-02,Germany,individual,travel agency,suite,room only,deposit,3,41.0,90,1,11,30,2,9.9
+52276,2026-06-04,Germany,individual,direct,superior,room only,pay at hotel,3,28.1,65,1,19,unknown,0,8.6
+52277,2026-06-08,Slovenia,individual,online agency,standard,full board,deposit,3,22.8,58,6,9,280,52,8.6
+52278,2026-06-08,Germany,individual,travel agency,suite,room only,prepaid,4,42.1,unknown,7,8,660,0,9.2
+52279,2026-06-08,Serbia,individual,travel agency,suite,breakfast,prepaid,3,40.1,unknown,2,51,260,13,10.0
+52280,2026-06-09,Turkey,group,travel agency,standard,breakfast,deposit,35,20.6,47,1,24,340,0,8.8
+52281,2026-06-09,Albania,individual,travel agency,economy,half board,prepaid,2,14.1,unknown,3,10,230,13,8.2
+52282,2026-06-10,Albania,individual,direct,economy,breakfast,prepaid,1,15.9,41,7,11,420,78,7.8
+52283,2026-06-10,Macedonia,individual,travel agency,suite,breakfast,prepaid,4,41.2,97,7,33,930,31,10.0
+52284,2026-06-10,Turkey,group,travel agency,standard,breakfast,prepaid,16,21.2,46,3,25,1490,0,6.6
+52285,2026-06-11,Albania,individual,direct,economy,room only,prepaid,2,14.2,39,4,111,160,0,6.3
+52286,2026-06-11,Serbia,individual,direct,superior,breakfast,deposit,3,27.0,63,3,113,80,9,8.1
+52287,2026-06-12,Slovenia,individual,online agency,standard,breakfast,deposit,1,21.0,unknown,unknown,3,70,0,9.0
+52288,2026-06-12,Serbia,individual,online agency,suite,breakfast,prepaid,4,40.7,97,3,24,400,9,8.1
+52289,2026-06-13,Macedonia,individual,travel agency,superior,breakfast,prepaid,2,28.7,unknown,2,64,180,7,6.0
+52290,2026-06-16,Turkey,individual,online agency,superior,half board,prepaid,3,28.0,70,3,25,400,10,7.5
+52291,2026-06-17,France,individual,online agency,standard,half board,deposit,300,20.7,49,5,28,210,156,6.7
+52292,2026-06-18,Austria,individual,online agency,standard,half board,prepaid,3,22.6,57,2,11,250,19,8.0
+52293,2026-06-19,Romania,individual,online agency,standard,breakfast,deposit,1,20.5,54,6,17,110,0,7.1
+52294,2026-06-20,Serbia,individual,travel agency,superior,breakfast,prepaid,2,26.7,62,6,3,530,65,8.4
+52295,2026-06-24,Bulgaria,individual,online agency,suite,breakfast,prepaid,3,39.3,88,unknown,19,500,47,9.2
+52296,2026-06-24,Germany,group,travel agency,standard,half board,prepaid,22,21.8,47,unknown,24,5740,0,7.8
+52297,2026-06-25,Bulgaria,individual,travel agency,economy,half board,deposit,2,15.0,45,7,25,180,19,7.8
+52298,2026-06-27,Switzerland,individual,online agency,deluxe,half board,pay at hotel,4,37.5,90,6,6,unknown,41,9.5
+52299,2026-06-28,Germany,group,travel agency,standard,breakfast,deposit,39,22.8,51,2,36,800,17,7.7
+52300,2026-06-29,Macedonia,individual,travel agency,suite,full board,prepaid,4,45.5,106,6,22,1450,95,8.7
+52301,2026-07-01,Bulgaria,individual,direct,economy,room only,prepaid,2,15.2,38,4,38,270,114,7.5
+52302,2026-07-02,Romania,individual,online agency,economy,half board,pay at hotel,1,15.8,43,6,38,unknown,28,5.8
+52303,2026-07-03,Netherlands,individual,travel agency,superior,full board,prepaid,3,24.5,57,6,2,910,28,7.4
+52304,2026-07-04,Serbia,individual,online agency,superior,room only,prepaid,2,28.5,69,1,17,80,15,8.1
+52305,2026-07-07,Macedonia,individual,travel agency,standard,breakfast,pay at hotel,2,21.1,unknown,7,29,unknown,0,8.3
+52306,2026-07-07,Turkey,individual,direct,superior,half board,prepaid,2,27.1,61,6,5,610,0,9.0
+52307,2026-07-11,Netherlands,individual,online agency,standard,room only,deposit,1,20.0,50,1,66,20,18,7.8
+52308,2026-07-12,Albania,individual,direct,standard,breakfast,prepaid,1,21.9,53,12,34,850,121,9.5
+52309,2026-07-12,Macedonia,individual,travel agency,superior,half board,prepaid,3,24.8,59,5,10,640,43,8.7
+52310,2026-07-12,Slovenia,individual,direct,deluxe,breakfast,prepaid,4,35.2,84,4,31,460,0,8.6
+52311,2026-07-13,Macedonia,individual,direct,standard,room only,prepaid,2,19.8,47,6,45,320,35,7.3
+52312,2026-07-14,Turkey,individual,direct,standard,breakfast,prepaid,2,21.1,47,1,8,80,12,9.0
+52313,2026-07-14,Macedonia,individual,direct,superior,breakfast,pay at hotel,2,28.0,66,4,8,unknown,15,8.4
+52314,2026-07-15,Greece,individual,travel agency,economy,breakfast,deposit,2,16.0,43,1,13,20,6,7.5
+52315,2026-07-15,Poland,individual,travel agency,economy,full board,prepaid,1,14.6,40,14,10,980,0,7.8
+52316,2026-07-16,Romania,individual,travel agency,standard,breakfast,prepaid,1,21.0,unknown,10,24,680,65,9.0
+52317,2026-07-17,Turkey,individual,travel agency,standard,breakfast,prepaid,1,21.6,49,3,23,170,0,8.7
+52318,2026-07-18,Macedonia,individual,direct,deluxe,room only,prepaid,2,36.5,84,4,14,370,35,unknown
+52319,2026-07-19,Austria,individual,travel agency,deluxe,breakfast,prepaid,2,33.3,77,5,17,460,0,8.4
+52320,2026-07-20,Kosovo,individual,direct,deluxe,room only,pay at hotel,2,33.0,74,2,8,unknown,6,9.3
+52321,2026-07-20,Serbia,individual,online agency,economy,half board,prepaid,2,15.8,39,1,154,90,12,7.1
+52322,2026-07-22,United Kingdom,individual,direct,standard,full board,deposit,3,21.4,53,6,19,270,35,7.4
+52323,2026-07-23,Croatia,individual,travel agency,superior,room only,prepaid,2,27.9,70,2,14,160,16,7.1
+52324,2026-07-23,Bulgaria,individual,travel agency,suite,half board,deposit,4,42.9,unknown,11,66,590,52,7.0
+52325,2026-07-24,Macedonia,individual,direct,economy,breakfast,prepaid,1,16.6,41,3,19,170,20,6.5
+52326,2026-07-25,Israel,individual,travel agency,economy,room only,deposit,2,13.1,36,11,44,130,37,7.1
+52327,2026-07-26,Serbia,individual,travel agency,standard,room only,deposit,1,21.5,57,7,15,190,236,8.7
+52328,2026-07-26,Germany,individual,online agency,superior,breakfast,deposit,2,27.6,57,unknown,12,160,168,6.8
+52329,2026-07-27,Germany,individual,direct,standard,breakfast,deposit,1,22.0,57,11,20,260,165,9.6
+52330,2026-07-28,Albania,individual,online agency,standard,room only,prepaid,3,22.0,53,7,18,430,58,8.1
+52331,2026-07-28,Macedonia,individual,online agency,superior,breakfast,prepaid,2,28.1,65,1,15,80,0,7.9
+52332,2026-07-28,Albania,individual,travel agency,economy,room only,pay at hotel,1,15.6,43,7,9,unknown,13,7.9
+52333,2026-07-28,Slovenia,individual,travel agency,suite,full board,pay at hotel,4,40.3,unknown,3,10,unknown,25,9.4
+52334,2026-07-28,Macedonia,individual,travel agency,standard,room only,deposit,1,21.8,56,6,8,100,0,7.0
+52335,2026-08-01,South Korea,individual,online agency,standard,breakfast,prepaid,2,21.3,55,4,13,300,16,9.0
+52336,2026-08-02,Serbia,individual,travel agency,standard,half board,prepaid,3,20.9,51,1,29,120,14,8.0
+52337,2026-08-02,Serbia,individual,online agency,deluxe,room only,prepaid,3,32.3,74,2,151,170,20,9.0
+52338,2026-08-05,Bulgaria,individual,direct,economy,room only,prepaid,2,15.3,41,5,4,220,12,6.0
+52339,2026-08-05,Greece,individual,travel agency,standard,half board,deposit,3,20.8,50,1,16,40,9,8.2
+52340,2026-08-06,Turkey,individual,direct,suite,breakfast,deposit,4,42.3,97,2,5,80,0,9.5
+52341,2026-08-06,Slovenia,individual,direct,standard,room only,pay at hotel,3,19.8,49,5,16,unknown,24,7.3
+52342,2026-08-07,France,individual,online agency,standard,half board,pay at hotel,2,20.7,50,4,14,unknown,76,7.7
+52343,2026-08-09,Bulgaria,individual,direct,standard,breakfast,deposit,3,21.1,53,1,28,20,0,8.0
+52344,2026-08-13,United Kingdom,individual,travel agency,standard,breakfast,prepaid,3,21.3,unknown,1,24,80,1,7.1
+52345,2026-08-14,Austria,individual,travel agency,standard,room only,pay at hotel,3,20.9,unknown,1,13,unknown,14,9.6
+52346,2026-08-15,Croatia,individual,online agency,standard,breakfast,pay at hotel,3,20.9,53,4,49,unknown,30,7.4
+52347,2026-08-16,South Korea,individual,online agency,standard,room only,pay at hotel,1,19.7,49,7,11,unknown,0,6.9
+52348,2026-08-16,Bulgaria,individual,direct,superior,breakfast,pay at hotel,3,27.0,68,5,10,unknown,0,7.1
+52349,2026-08-17,Bulgaria,individual,direct,deluxe,unknown,pay at hotel,4,34.6,79,1,66,unknown,0,8.5
+52350,2026-08-17,Italy,individual,travel agency,standard,half board,deposit,2,20.2,unknown,7,99,250,190,7.1
+52351,2026-08-18,Italy,individual,direct,superior,breakfast,prepaid,3,25.7,60,1,53,80,0,7.5
+52352,2026-08-19,Slovenia,individual,direct,standard,full board,prepaid,1,21.0,47,2,22,160,6,8.6
+52353,2026-08-20,Kosovo,individual,online agency,economy,half board,deposit,1,15.4,45,1,8,20,9,7.3
+52354,2026-08-20,Macedonia,individual,direct,deluxe,half board,pay at hotel,2,34.1,83,4,40,unknown,38,8.9
+52355,2026-08-22,Bulgaria,individual,direct,suite,room only,prepaid,4,41.7,99,2,15,230,28,8.6
+52356,2026-08-22,Bulgaria,individual,online agency,deluxe,half board,deposit,2,33.2,77,14,20,500,17,9.0
+52357,2026-08-22,Hungary,individual,direct,standard,unknown,prepaid,1,21.1,50,4,16,240,10,8.3
+52358,2026-08-24,Croatia,individual,direct,standard,breakfast,prepaid,2,21.0,unknown,2,36,140,5,7.4
+52359,2026-08-26,Macedonia,individual,online agency,deluxe,half board,prepaid,3,35.2,84,4,21,580,0,8.3
+52360,2026-08-26,Macedonia,individual,direct,economy,half board,prepaid,2,15.0,40,7,54,590,29,6.8
+52361,2026-08-27,Bulgaria,group,travel agency,standard,half board,prepaid,22,20.8,49,5,8,4980,80,7.7
+52362,2026-08-27,Kosovo,individual,direct,standard,half board,prepaid,2,20.2,47,3,81,280,23,unknown
+52363,2026-08-27,Austria,individual,travel agency,superior,breakfast,prepaid,3,26.1,70,7,89,660,0,7.9
+52364,2026-08-30,Austria,individual,direct,suite,breakfast,prepaid,4,43.5,97,6,8,840,65,9.5
+52365,2026-09-01,Bulgaria,individual,travel agency,standard,breakfast,pay at hotel,3,21.7,unknown,4,10,unknown,18,8.0
+52366,2026-09-01,Macedonia,individual,travel agency,superior,breakfast,prepaid,2,27.1,60,13,12,1240,251,9.2
+52367,2026-09-01,Turkey,individual,online agency,superior,breakfast,pay at hotel,3,26.7,63,7,16,unknown,0,7.3
+52368,2026-09-01,Serbia,group,travel agency,standard,breakfast,pay at hotel,31,21.9,48,2,6,unknown,8,8.2
+52369,2026-09-02,Germany,individual,online agency,superior,breakfast,deposit,2,26.8,67,2,16,60,20,9.3
+52370,2026-09-03,Kosovo,individual,online agency,superior,room only,deposit,3,27.0,61,2,45,40,20,7.5
+52371,2026-09-04,Serbia,group,travel agency,standard,half board,prepaid,35,21.3,42,5,16,7300,16,7.5
+52372,2026-09-05,Macedonia,individual,direct,suite,breakfast,deposit,3,39.6,89,4,61,170,115,10.0
+52373,2026-09-06,Romania,individual,direct,standard,room only,deposit,2,20.2,51,unknown,22,50,4,6.9
+52374,2026-09-08,Israel,individual,online agency,superior,unknown,prepaid,3,26.8,65,3,33,320,49,9.4
+52375,2026-09-09,Turkey,individual,travel agency,economy,room only,prepaid,1,14.5,unknown,3,19,120,26,5.1
+52376,2026-09-10,Czechia,individual,direct,standard,room only,deposit,2,20.1,50,unknown,116,100,42,8.3
+52377,2026-09-10,Albania,individual,online agency,suite,breakfast,pay at hotel,3,41.6,95,4,40,unknown,46,10.0
+52378,2026-09-14,Serbia,individual,travel agency,superior,room only,pay at hotel,2,26.3,62,unknown,5,unknown,0,10.0
+52379,2026-09-18,Slovenia,individual,online agency,suite,room only,prepaid,3,42.8,95,6,59,620,53,8.5
+52380,2026-09-18,United Kingdom,individual,online agency,economy,breakfast,prepaid,2,14.9,36,4,59,230,21,7.4
+52381,2026-09-19,Bulgaria,individual,direct,economy,room only,deposit,1,14.9,38,1,53,10,6,7.8
+52382,2026-09-20,United Kingdom,individual,online agency,superior,full board,deposit,2,28.7,63,4,18,150,0,7.7
+52383,2026-09-20,Macedonia,individual,travel agency,standard,breakfast,deposit,2,20.9,unknown,5,5,100,0,8.9
+52384,2026-09-21,Kosovo,individual,travel agency,standard,unknown,prepaid,1,21.1,unknown,1,11,60,4,8.6
+52385,2026-09-22,United Kingdom,individual,travel agency,standard,room only,deposit,1,20.5,51,4,8,60,0,7.9
+52386,2026-09-23,Macedonia,individual,travel agency,standard,breakfast,prepaid,2,21.0,unknown,2,15,160,23,8.1
+52387,2026-09-24,Macedonia,individual,travel agency,superior,half board,deposit,3,29.9,unknown,5,16,210,17,8.2
+52388,2026-09-25,Netherlands,individual,online agency,standard,breakfast,deposit,3,20.5,57,6,10,150,25,9.2
+52389,2026-09-26,Macedonia,individual,direct,superior,breakfast,prepaid,3,25.8,66,6,11,590,47,9.7
+52390,2026-09-27,Germany,individual,direct,standard,breakfast,prepaid,1,21.2,51,3,5,200,22,8.3
+52391,2026-09-27,Macedonia,individual,online agency,standard,breakfast,prepaid,3,20.6,49,3,28,220,0,8.9
+52392,2026-09-27,Albania,individual,travel agency,superior,breakfast,prepaid,2,26.8,unknown,5,18,380,0,8.5
+52393,2026-09-27,Bulgaria,individual,direct,superior,breakfast,deposit,3,28.0,70,7,7,200,0,8.6
+52394,2026-09-28,Switzerland,individual,online agency,standard,breakfast,pay at hotel,1,20.5,47,4,10,unknown,29,7.9
+52395,2026-09-28,South Korea,individual,travel agency,deluxe,half board,deposit,3,34.8,unknown,unknown,5,130,6,10.0
+52396,2026-09-28,Bulgaria,individual,direct,standard,breakfast,deposit,3,21.8,53,3,98,100,87,9.4
+52397,2026-09-29,Slovenia,individual,travel agency,suite,room only,prepaid,4,44.3,unknown,3,6,320,14,9.0
+52398,2026-09-29,Turkey,individual,direct,standard,room only,prepaid,3,21.0,54,5,32,300,33,8.7
+52399,2026-09-30,Poland,individual,travel agency,superior,room only,prepaid,3,25.1,unknown,5,70,380,87,7.3
+52400,2026-09-30,Albania,individual,direct,suite,breakfast,prepaid,3,45.5,105,6,82,1030,253,8.5
